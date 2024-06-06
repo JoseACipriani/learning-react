@@ -1,0 +1,53 @@
+{
+    "workbench.startupEditor": "terminal",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.statusBar.visible": false,
+    "workbench.activityBar.location": "hidden",
+    "workbench.editor.labelFormat": "short",
+
+    "console-ninja.featureSet": "Community",
+
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "editor.fontWeight": "700",
+    "editor.lineHeight": 1.3,
+    "editor.lineNumbers": "off",
+    "editor.minimap.enabled": false,
+    "editor.rulers": [80,120],
+    "editor.parameterHints.enabled": false,
+    "editor.stickyScroll.enabled": false,
+    "editor.renderLineHighlight": "gutter",
+    "editor.scrollbar.vertical": "hidden",
+    "editor.accessibilitySupport": "off",
+
+    "breadcrumbs.enabled": false,
+    "files.autoSave": "afterDelay",
+
+    "explorer.confirmDelete": false,
+    "explorer.compactFolders": false,
+    "explorer.confirmDragAndDrop": false,
+
+    "gitlens.codeLens.recentChange.enabled": false,
+    "git.enableSmartCommit": true,
+    "gitlens.codeLens.authors.enabled": false,
+    "gitlens.currentLine.enabled": false,
+
+
+    "extensions.ignoreRecommendations": true,
+
+    "update.showReleaseNotes": false,
+    "update.mode": "manual",
+
+    "security.promptForLocalFileProtocolHandling": false,
+    "security.workspace.trust.untrustedFiles": "newWindow",
+
+    "terminal.integrated.env.linux": {},
+    "terminal.integrated.showExitAlert": false,
+    "terminal.integrated.fontSize": 12,
+    "terminal.integrated.fontFamily": "",
+
+    "window.titleBarStyle": "native",
+    "window.commandCenter": true,
+    "window.customTitleBarVisibility": "never",
+    "workbench.colorTheme": "Default Dark+"
+}
